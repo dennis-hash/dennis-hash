@@ -1,14 +1,7 @@
-### Hi there 👋
+# 
+**`Digital Craftsman (Developer/Designer)`**
 
-Here are some ideas to get you started:
+My passion is to work with extremely talented people and collaborate to make products that
+would make an immediate impact. I enjoy manipulating data and hack things up for any
+immediate problems or projects I want to pursue. Most of my personal projects always come from a problem I want to solve, and it is by solving that problem that I grow and develop my coding abilities. I always break down the problem into smaller pieces and work my way up using and learning the necessary tools to complete it. 
 
-- 🔭 I’m currently working on ... Mobile development
-- 🌱 I’m currently learning ...Flutter
-- 👯 I’m looking to collaborate on ...Flutter
-- 🤔 I’m looking for help with ... Angular
-- 💬 Ask me about ...Anything
-- 📫 How to reach me: ...ndungudennis250@gmail.com
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... If I could have any superpower,it would be time travel 😀.
-- 
--->
