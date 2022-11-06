@@ -20,6 +20,6 @@ My passion is to work with extremely talented people and collaborate to make pro
 
 <p align="center" dir="auto">
   <a href="https://streak-stats.demolab.com/?user=dennis-hash">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://camo.githubusercontent.com/9066a0dd5570e83bb788c96b9b0908509dab1a7d5dd8263c6867c8068e83c304/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d2f3f757365723d44656e766572436f64657231267468656d653d6d6f6e6f6b61692d6d6574616c6c69616e26686964655f626f726465723d74727565" data-canonical-src="https://streak-stats.demolab.com/?user=DenverCoder1&amp;theme=monokai-metallian&amp;hide_border=true" style="max-width: 100%;">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://camo.githubusercontent.com/9066a0dd5570e83bb788c96b9b0908509dab1a7d5dd8263c6867c8068e83c304/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d2f3f757365723d44656e766572436f64657231267468656d653d6d6f6e6f6b61692d6d6574616c6c69616e26686964655f626f726465723d74727565" data-canonical-src="https://streak-stats.demolab.com/?user=dennis-hash&amp;theme=monokai-metallian&amp;hide_border=true" style="max-width: 100%;">
   </a>
   </p>
