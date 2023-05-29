@@ -29,10 +29,12 @@ I am a Software Engineer specializing in building applications that run on the c
 <p dir="auto">
     <a href="#"><img alt="Arduino" src="https://camo.githubusercontent.com/0d9127be2d88deb6ca6995597f7df5f6658f3307a0390176fe47aef616dfda60/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d41726475696e6f2d3030393739443f6c6f676f3d41726475696e6f266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&amp;logoColor=white" style="max-width: 100%;"></a>
 
-    <a href="#"><img alt="Flask" src="https://camo.githubusercontent.com/b4182ea1ed28da74d9056a8e8e531aac9d308ae393dc5ad1ba3ae27412459291/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f466c61736b2d3030303030302e7376673f6c6f676f3d666c61736b266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&amp;logoColor=white" style="max-width: 100%;"></a>
-    <a href="#"><img alt="GitHub Actions" src="https://camo.githubusercontent.com/ba4516a1d93862d1c12ad7495551804c58b04066194903828fd83606a0fac2a8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476974487562253230416374696f6e732d3236373145352e7376673f6c6f676f3d676974687562253230616374696f6e73266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&amp;logoColor=white" style="max-width: 100%;"></a>
+
+    
+    
 <a href="#"><img alt="NumPy" src="https://camo.githubusercontent.com/9dda0e62ed6ae858c705b3c0f0c09c72885852f974cb6c64416abdd96c66dc79/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e756d70792d3031333234332e7376673f6c6f676f3d6e756d7079266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&amp;logoColor=white" style="max-width: 100%;"></a>
-    <a href="#"><img alt="Pandas" src="https://camo.githubusercontent.com/f48049f904b966df3dbca638e59e8528c7546d2f29f608e9283031d9c99c501b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50616e6461732d3135303435382e7376673f6c6f676f3d70616e646173266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&amp;logoColor=white" style="max-width: 100%;"></a>
+    
+
 
 <a href="#"><img alt="Wordpress" src="https://camo.githubusercontent.com/6e58db1589ea4b78a7a30bbbdafe89a19de20d17811d4a26321348dd9c7589d3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f576f726470726573732d3231373539423f6c6f676f3d776f72647072657373266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&amp;logoColor=white" style="max-width: 100%;"></a>
  
