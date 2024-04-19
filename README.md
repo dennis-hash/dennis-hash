@@ -5,7 +5,7 @@
 
 `Spring Boot` `Laravel` `Flutter` `Angular` 
 
-<img src="https://wakatime.com/share/@dennis_k/79730692-f9a5-4b12-b8d4-09248e78c61b.svg" height="350"/>
+<img src="https://wakatime.com/share/@dennis_k/a528cdf8-3c15-4467-90c2-b3d969ff5b52.svg" height="300"/>
 
 
 
