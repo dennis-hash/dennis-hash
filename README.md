@@ -1,7 +1,7 @@
 
 **`Digital Craftsman`**
 
-**I am a Software Engineer specializing in building software systems that are scalable, secure and reliable.**
+**I am a Software Engineer building software systems that are scalable, secure and reliable.**
 
 `Spring Boot` `Laravel` `Flutter` `Angular` 
 
