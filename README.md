@@ -1,13 +1,10 @@
 
 **`Digital Craftsman`**
 
-**I am a passionate back-end engineer that designs and build scalable, secure, and reliable back-end systems that power web/mobile applications and complex data pipelines.**
+**-Fairly average software dev**
 
-**My expertise lies in 
-system design, 
-database design, 
-system integration,
-building APIs and leveraging cloud platforms.**
+**-Actually uses a debugger when things are not working**
+
 
 `Spring Boot` `Laravel` `Flutter` `Angular` `GCP` 
 
